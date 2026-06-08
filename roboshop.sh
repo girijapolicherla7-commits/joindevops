@@ -1,7 +1,7 @@
 #!/bin/bash
 
 AMI_ID="ami-0220d79f3f480ecf5"
-ZONE_ID="Z07086101C1CVP7AT2UK4" # replace with your zone ID
+ZONE_ID="Z06674242PDJELG6BORBU" # replace with your zone ID
 DOMAIN_NAME="viniashri.shop" # replace with your domain name
 
 for instance in $@
